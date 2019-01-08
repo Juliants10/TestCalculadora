@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Libreria
 {
-    /* Calculadora de Prueba */
+    /* Calculadora de Prueba 2 */
     public class Calculadora
     {
         public long Add(long a, long b)

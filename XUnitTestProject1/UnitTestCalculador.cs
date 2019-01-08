@@ -4,7 +4,6 @@ using Xunit;
 
 namespace XUnitTestProject1
 {
-    /* Calculator unit test, what a bad comment!! */
     public class UnitTestCalculadora
     {
         [Fact]
